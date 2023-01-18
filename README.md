@@ -63,9 +63,9 @@ This will create a signed IPA file that can be installed on iOS devices.
 # Dependencies
 
 List of dependencies: 
-pod 'Alamofire' -> Networking library that ensures that the message reaches everyone in the world.
-pod 'AzikusAuthorization' -> Our library that serves for authorization. 
-It is very important that it is maintained because it is also used by users outside the company.
+* pod 'Alamofire' -> Networking library that ensures that the message reaches everyone in the world.
+* pod 'AzikusAuthorization' -> Our library that serves for authorization. 
+It is very important that <strong>it is maintained because it is also used by users outside the company</strong>.
 
 # Contribution
 We welcome contributions to the HelloWorld project! If you're an iOS developer and want to help out, here are some ways you can get involved:
