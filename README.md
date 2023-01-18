@@ -8,7 +8,7 @@ and syntax of a programming language.<br>
 The project consists of a single script that, when executed, will print the text "Hello, World!" to the screen.</p>
 
 # Getting started
-<p>Make sure you have the newest version of Xcode installed on your computer.
+Make sure you have the newest version of Xcode installed on your computer.
 * Download the Hello World project files from the repository.
 * Install CocoaPods.
 * Run pod install so you can install the dependencies in your project.
@@ -18,7 +18,7 @@ The project consists of a single script that, when executed, will print the text
 You should see the text "Hello, World!" printed to the screen.<br>
 Once you're comfortable with the basic concept, you can start modifying the script and experimenting with different variations.<br>
 If you have any issues or need help, refer to the documentation or contact the developers for assistance.<br>
-You're now ready to start your journey into the world of programming.</p>
+You're now ready to start your journey into the world of programming.
 
 # Usage
 In order to send a message to the whole world, you must log in with the appropriate account.
