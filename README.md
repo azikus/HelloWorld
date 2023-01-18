@@ -8,6 +8,7 @@ and syntax of a programming language.<br>
 The project consists of a single script that, when executed, will print the text "Hello, World!" to the screen.</p>
 
 # Getting started
+dodati brojeve
 Make sure you have the newest version of Xcode installed on your computer.
 * Download the Hello World project files from the repository.
 * Install CocoaPods.
@@ -29,6 +30,7 @@ In order to send a message to the whole world, you must log in with the appropri
 Important: DEV and PROD enviroment are <strong>NOT WORKING</strong> on Friday from 00;00 - 01;00 GMT due to the server maintenance.
 
 # Architecture
+dodati primjere kreiranja novog ekrana
 * Hello World project is implemented using the <strong>Model-View-Controller (MVC)</strong> architecture pattern.
 * Model has any necessary data or business logic needed to generate the "Hello, World!" message.
 * View is responsible for displaying the message to the user, such as printing it to the console.
@@ -38,6 +40,7 @@ Important: DEV and PROD enviroment are <strong>NOT WORKING</strong> on Friday fr
 It serves as a starting point for those who are looking to learn programming, and it is designed to be easy to understand and modify.
 
 # Structure 
+Dodati nas primjer docs-a
 * "src": The source code of the project, including the main script.
 * "docs": Documentation related to the project, such as a README file or a user manual.
 * "test": Test files and test suites that can be used to test the project's functionality.
@@ -61,7 +64,7 @@ This will create a signed IPA file that can be installed on iOS devices.
 5. Once the distribution is complete, you can use the IPA file to install the app on iOS devices
 
 # Dependencies
-
+Dodati cocoa pods
 List of dependencies: 
 * pod 'Alamofire' -> Networking library that ensures that the message reaches everyone in the world.
 * pod 'AzikusAuthorization' -> Our library that serves for authorization. 
@@ -83,6 +86,7 @@ Improving documentation:
 Providing feedback:
 - If you have any feedback or suggestions for the HelloWorld project, please let us know by creating a new issue or by sending an email to the project maintainer.
 
+Odvojit svaki u zaseban chapter
 # Useful links
 * Task board: www.helloworld/jira.com
 * Design: www.helloworld/figma/design.com
