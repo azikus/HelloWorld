@@ -81,6 +81,6 @@ Providing feedback:
 - If you have any feedback or suggestions for the HelloWorld project, please let us know by creating a new issue or by sending an email to the project maintainer.
 
 # Useful links
-* Task board: wwww.helloworld/jira.com
-* Design: wwww.helloworld/figma/design.com
+* Task board: www.helloworld/jira.com
+* Design: www.helloworld/figma/design.com
 * API docs: www.helloworld/azikus/APIdocs.com
