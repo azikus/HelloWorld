@@ -29,12 +29,12 @@ In order to send a message to the whole world, you must log in with the appropri
 Important: DEV and PROD enviroment are <strong>NOT WORKING</strong> on Friday from 00;00 - 01;00 GMT due to the server maintenance.
 
 # Architecture
-The Hello World project is implemented using the Model-View-Controller (MVC) architecture pattern. 
-Model has any necessary data or business logic needed to generate the "Hello, World!" message. 
-The View is responsible for displaying the message to the user, such as printing it to the console. 
-The Controller handles any user input or interactions and update the Model and View as needed.
-The project doesn't have a database, user interface or any other complex elements. 
-It serves as a starting point for those who are looking to learn programming, and it is designed to be easy to understand and modify.
+<p>The Hello World project is implemented using the <strong>Model-View-Controller (MVC)</strong> architecture pattern.<br> 
+Model has any necessary data or business logic needed to generate the "Hello, World!" message.<br>  
+The View is responsible for displaying the message to the user, such as printing it to the console.<br> 
+The Controller handles any user input or interactions and update the Model and View as needed.<br> 
+The project doesn't have a database, user interface or any other complex elements.<br>  
+It serves as a starting point for those who are looking to learn programming, and it is designed to be easy to understand and modify.</p>
 
 # Structure 
 "src": This folder can contain the source code of the project, including the main script.
