@@ -45,10 +45,10 @@ It serves as a starting point for those who are looking to learn programming, an
 * "data": Any data files that the project uses, such as sample input or output files.
 
 # Running the tests
-The Hello World project can be tested using the built-in framework XCTest.
+<p>The Hello World project can be tested using the built-in framework XCTest.<br>
 To start testing the project, you will need to create a new test target in your Xcode project, 
-and then add test files to that target. These test files should be placed in the "test" folder, following the project structure.
-Once you have created your test files, you can write test functions using the XCTest 
+and then add test files to that target.<br>These test files should be placed in the "test" folder, following the project structure.
+Once you have created your test files, you can write test functions using the XCTest</p>
 
 # Deployment
 Keep in mind that deploying an iOS app to the App Store requires having an Apple Developer account.
