@@ -16,6 +16,7 @@ Make sure you have the newest version of Xcode installed on your computer.
 * Review the code and make sure you understand what it does.
 * Run the active scheme.
 You should see the text "Hello, World!" printed to the screen.<br>
+
 Once you're comfortable with the basic concept, you can start modifying the script and experimenting with different variations.<br>
 If you have any issues or need help, refer to the documentation or contact the developers for assistance.<br>
 You're now ready to start your journey into the world of programming.
