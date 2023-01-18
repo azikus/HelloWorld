@@ -26,7 +26,7 @@ In order to send a message to the whole world, you must log in with the appropri
 * Username: LordVoldemort
 * Password: AvadaKedavra123
 
-Important: Application DEV and PROD enviroment are <strong>NOT WORKING</strong> on Friday from 00;00 - 01;00 GMT due to the server maintenance.
+Important: DEV and PROD enviroment are <strong>NOT WORKING</strong> on Friday from 00;00 - 01;00 GMT due to the server maintenance.
 
 # Architecture
 The Hello World project is implemented using the Model-View-Controller (MVC) architecture pattern. 
