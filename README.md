@@ -2,10 +2,10 @@
 A simple project that says "Hello" to the whole world!
 
 # Description
-The Hello World project is a simple and straightforward introduction to programming.
+<p>The Hello World project is a simple and straightforward introduction to programming.<br>
 It is designed for beginners who have little to no experience with coding and aims to familiarize them with the basic concepts 
-and syntax of a programming language. 
-The project consists of a single script that, when executed, will print the text "Hello, World!" to the screen.
+and syntax of a programming language.<br> 
+The project consists of a single script that, when executed, will print the text "Hello, World!" to the screen.</p>
 
 # Getting started
 Make sure you have the newest version of Xcode installed on your computer. 
