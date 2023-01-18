@@ -38,11 +38,11 @@ Important: DEV and PROD enviroment are <strong>NOT WORKING</strong> on Friday fr
 It serves as a starting point for those who are looking to learn programming, and it is designed to be easy to understand and modify.
 
 # Structure 
-* "src": This folder can contain the source code of the project, including the main script.
-* "docs": This folder can contain documentation related to the project, such as a README file or a user manual.
-* "test": This folder can contain test files and test suites that can be used to test the project's functionality.
-* "config": This folder can contain any configuration files that the project needs, such as a settings file or an environment file.
-* "data": This folder can contain any data files that the project uses, such as sample input or output files.
+* "src": Contains the source code of the project, including the main script.
+* "docs": Contains documentation related to the project, such as a README file or a user manual.
+* "test": Contains test files and test suites that can be used to test the project's functionality.
+* "config": Contains any configuration files that the project needs, such as a settings file or an environment file.
+* "data": Contains any data files that the project uses, such as sample input or output files.
 
 # Running the tests
 The Hello World project can be tested using the built-in framework XCTest.
