@@ -58,11 +58,10 @@ final class RouterA {
 
 # Structure 
 Dodati nas primjer docs-a
-* "src": The source code of the project, including the main script.
-* "docs": Documentation related to the project, such as a README file or a user manual.
-* "test": Test files and test suites that can be used to test the project's functionality.
-* "config": Any configuration files that the project needs, such as a settings file or an environment file.
-* "data": Any data files that the project uses, such as sample input or output files.
+* "Common": Files or resources that are shared across multiple parts of the project. Such as utility classes, global constants, or reusable UI elements.
+* "Modules": The source code files for a specific module. Files within a module folder are organized into subfolders, such as "Views" or "Models".
+* "Resources": Non-code files that are used by the project. These can include images, audio files, video files, and other types of assets. 
+* "API": Files or classes related to communicating with an external API. This could include code for making HTTP requests to a web server, parsing responses, and handling any errors that may occur.
 
 # Running the tests
 <p>The Hello World project can be tested using the built-in framework XCTest.<br>
