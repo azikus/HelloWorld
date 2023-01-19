@@ -121,11 +121,11 @@ Link to the board is [here](https://www.atlassian.com/software/jira)<br>
 It is very important that the tasks are up to date so that the project managers could distribute the tasks as good as possible.
 
 # Design 
-Design tool for our teams is [Figma](https://www.figma.com)
-Link to the design is [here](https://www.figma.com) <br>
-All of the design is and must be only in one tool and currently it is Figma.<br>
-Colors in the Figma must have same name as colors in Xcode project.<br> 
-Basic UI elemnts are defined and can be found [here](https://www.figma.com)
+* Design tool for our teams is [Figma](https://www.figma.com)
+* Link to the design is [here](https://www.figma.com) <br>
+* All of the design is and must be only in one tool and currently it is Figma.<br>
+* Colors in the Figma must have same name as colors in Xcode project.<br> 
+* Basic UI elemnts are defined and can be found [here](https://www.figma.com)
 
 # API 
 * We are using a REST API
