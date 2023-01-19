@@ -8,13 +8,14 @@ and syntax of a programming language.<br>
 The project consists of a single script that, when executed, will print the text "Hello, World!" to the screen.</p>
 
 # Getting started
-<p>Make sure you have the newest version of Xcode installed on your computer.<br>
-1. Download the Hello World project files from the repository.<br>
-2. Install CocoaPods.<br>
-3. Run pod install so you can install the dependencies in your project.<br>
-4. Open the project files in Xcode.<br>
-5. Review the code and make sure you understand what it does.<br>
-6. Run the active scheme.<br>
+<p>
+1. Make sure you have the Xcode version 14.0 or above installed on your computer.<br>
+2. Download the Hello World project files from the repository.<br>
+3. Install CocoaPods.<br>
+4. Run pod install so you can install the dependencies in your project.<br>
+5. Open the project files in Xcode.<br>
+6. Review the code and make sure you understand what it does.<br>
+7. Run the active scheme.<br>
 You should see the text "Hello, World!" printed to the screen.<br>
 
 Once you're comfortable with the basic concept, you can start modifying the script and experimenting with different variations.<br>
@@ -29,12 +30,30 @@ In order to send a message to the whole world, you must log in with the appropri
 Important: DEV and PROD enviroment are <strong>NOT WORKING</strong> on Friday from 00;00 - 01;00 GMT due to the server maintenance.
 
 # Architecture
-dodati primjere kreiranja novog ekrana
 * Hello World project is implemented using the <strong>Model-View-Controller (MVC)</strong> architecture pattern.
 * Model has any necessary data or business logic needed to generate the "Hello, World!" message.
 * View is responsible for displaying the message to the user, such as printing it to the console.
 * Controller handles any user input or interactions and update the Model and View as needed.
 * Project doesn't have a database, user interface or any other complex elements.
+How to create a new screen.
+The router serves for navigation.<br>
+In order to present ViewControllerA, RouterA present method must be called. <br>
+Below is a code snippet with an example.<br>
+
+<code>RouterA().present(on: self, context: contextA(title: "HelloWorld"))
+final class RouterA {
+  private func viewController(presentingViewController: UIViewController, context: ContextA) -> ViewControllerA {
+        let viewModel = ViewModelA(context: context)
+        let viewController = ViewControllerA(viewModel: viewModel)
+        viewController.modalPresentationStyle = .overFullScreen
+
+        return viewController
+    }
+
+    func present(on presentingViewController: UIViewController, context: ContextA) {
+        presentingViewController.present(viewController(presentingViewController: presentingViewController, context: context), animated: true, completion: nil)
+    }
+  </code>
 
 It serves as a starting point for those who are looking to learn programming, and it is designed to be easy to understand and modify.
 
