@@ -116,7 +116,7 @@ Providing feedback:
 
 # Task board
 Development tool for our teams is [Jira](https://www.atlassian.com/software/jira)<br>
-Link to the board -> www.jira/helloworld.com
+Link to the board is [here]([https://www.atlassian.com/software/jira])<br>
 
 It is very important that the tasks are up to date so that the project managers could distribute the tasks as good as possible.
 
