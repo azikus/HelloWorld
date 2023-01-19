@@ -101,8 +101,17 @@ Improving documentation:
 Providing feedback:
 - If you have any feedback or suggestions for the HelloWorld project, please let us know by creating a new issue or by sending an email to the project maintainer.
 
-Odvojit svaki u zaseban chapter
-# Useful links
-* Task board: www.helloworld/jira.com
-* Design: www.helloworld/figma/design.com
+# Task board
+Development tool for our teams is [Jira](https://www.atlassian.com/software/jira)
+Link to the board -> www.jira/helloworld.com
+
+It is very important that the tasks are up to date so that the project managers could distribute the tasks as good as possible.
+
+# Design 
+Design tool for our teams is [Figma](https://www.figma.com)
+Link to the design -> www.jira/helloworld.com
+All of the design is and must be only in one tool and currently it is Figma. 
+Colors in the Figma must have same name as colors in Xcode project. 
+Basic UI elemnts are defined and can be found [here](https://www.figma.com)
+
 * API docs: www.helloworld/azikus/APIdocs.com
