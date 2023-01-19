@@ -109,7 +109,7 @@ It is very important that the tasks are up to date so that the project managers 
 
 # Design 
 Design tool for our teams is [Figma](https://www.figma.com)
-Link to the design -> www.jira/helloworld.com
+Link to the design is [here](https://www.figma.com) <br>
 All of the design is and must be only in one tool and currently it is Figma. 
 Colors in the Figma must have same name as colors in Xcode project. 
 Basic UI elemnts are defined and can be found [here](https://www.figma.com)
