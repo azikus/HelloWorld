@@ -41,8 +41,9 @@ In order to present ViewControllerA, RouterA present method must be called.<br>
 Below is a code snippet with an example.<br>
 
 ```
-RouterA().present(on: self, context: contextA(title: "HelloWorld"))<br>
-<code>final class RouterA {
+RouterA().present(on: self, context: contextA(title: "HelloWorld"))
+
+final class RouterA {
   private func viewController(presentingViewController: UIViewController, context: ContextA) -> ViewControllerA {
         let viewModel = ViewModelA(context: context)
         let viewController = ViewControllerA(viewModel: viewModel)
@@ -50,8 +51,8 @@ RouterA().present(on: self, context: contextA(title: "HelloWorld"))<br>
 
         return viewController
     }
-</code>
-    <code>func present(on presentingViewController: UIViewController, context: ContextA) {
+
+    func present(on presentingViewController: UIViewController, context: ContextA) {
         presentingViewController.present(viewController(presentingViewController: presentingViewController, context: context), animated: true, completion: nil)
 }
 ```
