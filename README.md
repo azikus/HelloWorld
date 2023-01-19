@@ -79,7 +79,7 @@ This will create a signed IPA file that can be installed on iOS devices.
 5. Once the distribution is complete, you can use the IPA file to install the app on iOS devices
 
 # Dependencies
-Dodati cocoa pods
+[CocoaPods](https://cocoapods.org) is used as a dependency manager.
 List of dependencies: 
 * pod 'Alamofire' -> Networking library that ensures that the message reaches everyone in the world.
 * pod 'AzikusAuthorization' -> Our library that serves for authorization. 
