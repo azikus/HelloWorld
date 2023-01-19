@@ -1,3 +1,7 @@
+# Table of Contents
+1. [Description](#description)
+2. [Getting started](#getting-started)
+
 # HelloWorld
 A simple project that says "Hello" to the whole world!
 
