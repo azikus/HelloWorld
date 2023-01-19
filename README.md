@@ -102,7 +102,7 @@ Providing feedback:
 - If you have any feedback or suggestions for the HelloWorld project, please let us know by creating a new issue or by sending an email to the project maintainer.
 
 # Task board
-Development tool for our teams is [Jira](https://www.atlassian.com/software/jira)
+Development tool for our teams is [Jira](https://www.atlassian.com/software/jira)<br>
 Link to the board -> www.jira/helloworld.com
 
 It is very important that the tasks are up to date so that the project managers could distribute the tasks as good as possible.
