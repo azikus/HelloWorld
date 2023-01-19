@@ -40,7 +40,8 @@ The router serves for navigation.<br>
 In order to present ViewControllerA, RouterA present method must be called.<br>
 Below is a code snippet with an example.<br>
 
-<code>RouterA().present(on: self, context: contextA(title: "HelloWorld"))</code><br>
+```
+RouterA().present(on: self, context: contextA(title: "HelloWorld"))<br>
 <code>final class RouterA {
   private func viewController(presentingViewController: UIViewController, context: ContextA) -> ViewControllerA {
         let viewModel = ViewModelA(context: context)
@@ -53,7 +54,7 @@ Below is a code snippet with an example.<br>
     <code>func present(on presentingViewController: UIViewController, context: ContextA) {
         presentingViewController.present(viewController(presentingViewController: presentingViewController, context: context), animated: true, completion: nil)
 }
-  </code>
+```
 
 It serves as a starting point for those who are looking to learn programming, and it is designed to be easy to understand and modify.
 
