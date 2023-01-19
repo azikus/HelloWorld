@@ -34,14 +34,14 @@ Important: DEV and PROD enviroment are <strong>NOT WORKING</strong> on Friday fr
 * Model has any necessary data or business logic needed to generate the "Hello, World!" message.
 * View is responsible for displaying the message to the user, such as printing it to the console.
 * Controller handles any user input or interactions and update the Model and View as needed.
-* Project doesn't have a database, user interface or any other complex elements.
-How to create a new screen.
+* Project doesn't have a database, user interface or any other complex elements.<br>
+How to create a new screen.<br>
 The router serves for navigation.<br>
-In order to present ViewControllerA, RouterA present method must be called. <br>
+In order to present ViewControllerA, RouterA present method must be called.<br>
 Below is a code snippet with an example.<br>
 
-<code>RouterA().present(on: self, context: contextA(title: "HelloWorld"))
-final class RouterA {
+<code>RouterA().present(on: self, context: contextA(title: "HelloWorld"))</code><br>
+<code>final class RouterA {
   private func viewController(presentingViewController: UIViewController, context: ContextA) -> ViewControllerA {
         let viewModel = ViewModelA(context: context)
         let viewController = ViewControllerA(viewModel: viewModel)
@@ -49,10 +49,10 @@ final class RouterA {
 
         return viewController
     }
-
-    func present(on presentingViewController: UIViewController, context: ContextA) {
+</code>
+    <code>func present(on presentingViewController: UIViewController, context: ContextA) {
         presentingViewController.present(viewController(presentingViewController: presentingViewController, context: context), animated: true, completion: nil)
-    }
+}
   </code>
 
 It serves as a starting point for those who are looking to learn programming, and it is designed to be easy to understand and modify.
