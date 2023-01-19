@@ -57,7 +57,6 @@ final class RouterA {
 ```
 
 # Structure 
-Dodati nas primjer docs-a
 * "Common": Files or resources that are shared across multiple parts of the project. Such as utility classes, global constants, or reusable UI elements.
 * "Modules": The source code files for a specific module. Files within a module folder are organized into subfolders, such as "Views" or "Models".
 * "Resources": Non-code files that are used by the project. These can include images, audio files, video files, and other types of assets. 
