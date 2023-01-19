@@ -114,4 +114,7 @@ All of the design is and must be only in one tool and currently it is Figma.<br>
 Colors in the Figma must have same name as colors in Xcode project.<br> 
 Basic UI elemnts are defined and can be found [here](https://www.figma.com)
 
-* API docs: www.helloworld/azikus/APIdocs.com
+# API 
+* We are using a REST API
+* List of API calls is [here](https://petstore.swagger.io/#/) 
+* For HTTP newtworking we are using [Alamofire](https://github.com/Alamofire/Alamofire) 
