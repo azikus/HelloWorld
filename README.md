@@ -35,8 +35,8 @@ Important: DEV and PROD enviroment are <strong>NOT WORKING</strong> on Friday fr
 * View is responsible for displaying the message to the user, such as printing it to the console.
 * Controller handles any user input or interactions and update the Model and View as needed.
 * Project doesn't have a database, user interface or any other complex elements.<br><br>
-How to create a new screen? The router serves for navigation.<br>
-In order to present ViewControllerA, RouterA present method must be called.<br>
+How to create a new screen?<br>
+The router serves for navigation. In order to present ViewControllerA, RouterA present method must be called.<br>
 Below is a code snippet with an example.<br>
 
 ```
