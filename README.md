@@ -56,8 +56,6 @@ final class RouterA {
 }
 ```
 
-It serves as a starting point for those who are looking to learn programming, and it is designed to be easy to understand and modify.
-
 # Structure 
 Dodati nas primjer docs-a
 * "src": The source code of the project, including the main script.
