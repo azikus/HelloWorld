@@ -103,6 +103,14 @@ It is very important that <strong>it is maintained because it is also used by us
 Reporting bugs: 
 - If you come across any issues while using the HelloWorld, please report them by creating a new issue on the GitHub repository.
 
+Reporting bugs form: 
+```
+App version: 2.12
+iOS version: 16.1
+Description: When I tap on the "Send" button, my friends don't receive message.
+Steps to reproduce: Open "Messages" flow of the app, write down message, press "Send" button.
+```
+
 Submitting pull requests: 
 - If you have a bug fix or a new feature you'd like to add, please submit a pull request. Before submitting a pull request, 
 please make sure that your changes are well-tested and that your code adheres to the Swift style guide.
@@ -117,7 +125,9 @@ Providing feedback:
 * Development tool for our teams is [Jira](https://www.atlassian.com/software/jira)<br>
 * Link to the board is [here](https://www.atlassian.com/software/jira)<br>
 
-It is very important that the tasks are up to date so that the project managers could distribute the tasks as good as possible.
+It is very important that the tasks are up to date so that the project managers could distribute the tasks as good as possible.<br>
+Daily meetings are everyday at 9;45AM GMT. The planning of tasks is every 2 weeks, and the time for their execution is also 2 weeks, which includes testing.
+
 
 # Design 
 * Design tool for our teams is [Figma](https://www.figma.com)
