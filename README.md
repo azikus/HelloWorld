@@ -139,4 +139,4 @@ Daily meetings are everyday at 9:45AM GMT. The planning of tasks is every 2 week
 # API 
 * We are using a REST API
 * List of API calls is [here](https://petstore.swagger.io/#/) 
-* For HTTP newtworking we are using [Alamofire](https://github.com/Alamofire/Alamofire) 
+* For HTTP networking we are using [Alamofire](https://github.com/Alamofire/Alamofire) 
