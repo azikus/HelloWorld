@@ -40,7 +40,7 @@ In order to send a message to the whole world, you must log in with the appropri
 * Username: LordVoldemort
 * Password: AvadaKedavra123
 
-Important: DEV and PROD enviroment are <strong>NOT WORKING</strong> on Friday from 00;00 - 01;00 GMT due to the server maintenance.
+Important: DEV and PROD enviroment are <strong>NOT WORKING</strong> on Friday from 00:00 - 01:00 GMT due to the server maintenance.
 
 # Architecture
 * Hello World project is implemented using the <strong>Model-View-Controller (MVC)</strong> architecture pattern.
@@ -122,11 +122,11 @@ If you notice any errors or areas of improvement in the documentation, feel free
 If you have any feedback or suggestions for the HelloWorld project, please let us know by creating a new issue or by sending an email to the project maintainer.
 
 # Task board
-* Development tool for our teams is [Jira](https://www.atlassian.com/software/jira)<br>
+* Task management tool for our teams is [Jira](https://www.atlassian.com/software/jira)<br>
 * Link to the board is [here](https://www.atlassian.com/software/jira)<br>
 
 It is very important that the tasks are up to date so that the project managers could distribute the tasks as good as possible.<br>
-Daily meetings are everyday at 9;45AM GMT. The planning of tasks is every 2 weeks, and the time for their execution is also 2 weeks, which includes testing.
+Daily meetings are everyday at 9:45AM GMT. The planning of tasks is every 2 weeks, and the time for their execution is also 2 weeks, which includes testing.
 
 
 # Design 
