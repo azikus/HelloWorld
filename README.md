@@ -100,10 +100,10 @@ It is very important that <strong>it is maintained because it is also used by us
 
 # Workflow
 
-Reporting bugs: 
-- If you come across any issues while using the HelloWorld, please report them by creating a new issue on the GitHub repository.
+* Reporting bugs: 
+If you come across any issues while using the HelloWorld, please report them by creating a new issue on the GitHub repository.
 
-Reporting bugs form: 
+* Reporting bugs form: 
 ```
 App version: 2.12
 iOS version: 16.1
@@ -111,15 +111,15 @@ Description: When I tap on the "Send" button, my friends don't receive message.
 Steps to reproduce: Open "Messages" flow of the app, write down message, press "Send" button.
 ```
 
-Submitting pull requests: 
-- If you have a bug fix or a new feature you'd like to add, please submit a pull request. Before submitting a pull request, 
+* Submitting pull requests: 
+If you have a bug fix or a new feature you'd like to add, please submit a pull request. Before submitting a pull request, 
 please make sure that your changes are well-tested and that your code adheres to the Swift style guide.
 
-Improving documentation: 
-- If you notice any errors or areas of improvement in the documentation, feel free to submit a pull request with your changes.
+* Improving documentation: 
+If you notice any errors or areas of improvement in the documentation, feel free to submit a pull request with your changes.
 
-Providing feedback:
-- If you have any feedback or suggestions for the HelloWorld project, please let us know by creating a new issue or by sending an email to the project maintainer.
+* Providing feedback:
+If you have any feedback or suggestions for the HelloWorld project, please let us know by creating a new issue or by sending an email to the project maintainer.
 
 # Task board
 * Development tool for our teams is [Jira](https://www.atlassian.com/software/jira)<br>
